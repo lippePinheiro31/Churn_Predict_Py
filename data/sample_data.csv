@@ -1,0 +1,101 @@
+name,age,gender,signup_date,last_active_date,monthly_spending,num_complaints,is_churn
+Kayla Anderson,63,Male,2024-10-09,2025-02-05,725.21,0,0
+Amanda Guerrero,56,Male,2024-09-01,2024-09-15,811.96,3,0
+Mary Cortez,25,Other,2024-11-08,2025-06-13,82.24,1,1
+Lorraine Anderson,54,Female,2025-01-07,2025-01-08,325.48,1,1
+Mrs. Angel Grant MD,68,Female,2024-09-27,2025-02-05,444.7,4,1
+John Freeman,48,Female,2024-11-08,2025-04-06,739.95,3,0
+Tina Morris,25,Male,2025-01-08,2025-01-10,450.06,0,0
+Joyce King,70,Female,2024-12-08,2025-02-08,25.24,3,1
+Randy Hardin,23,Other,2024-06-05,2024-07-25,703.87,1,1
+Tina Ramirez,42,Female,2025-03-04,2025-05-11,635.94,5,1
+Deanna Griffith,23,Male,2024-06-02,2024-09-18,127.79,0,1
+Susan Hoover,64,Male,2024-10-13,2025-05-21,792.22,0,1
+Jessica White,28,Other,2024-04-10,2025-01-26,764.45,3,0
+Catherine Donaldson,35,Female,2024-01-25,2024-05-29,727.22,1,1
+Travis Hamilton,55,Male,2024-07-15,2025-03-15,733.59,3,1
+Sherry Holloway,52,Female,2025-02-08,2025-03-29,206.88,1,1
+Sandra Johnson,42,Female,2024-07-16,2024-08-13,291.49,2,1
+Jose Campbell,22,Other,2025-02-26,2025-05-10,195.55,2,0
+Kristin Rivera,44,Other,2023-08-03,2023-12-09,544.47,2,1
+Sara Oneal,67,Female,2024-06-20,2024-11-23,284.77,0,1
+Kevin Johnson,64,Male,2024-04-21,2024-12-23,773.98,0,1
+Yvonne Johns,55,Female,2024-10-17,2025-07-09,856.78,0,1
+Amy Ingram MD,35,Other,2024-09-28,2025-03-06,117.2,1,0
+Andrew Perez,45,Other,2023-07-28,2025-06-16,863.02,2,0
+Christine Schroeder,49,Male,2025-04-20,2025-06-23,917.5,2,0
+Heather Michael,62,Male,2024-10-09,2024-12-07,512.15,3,0
+Sarah Baker,38,Other,2024-01-08,2024-04-23,163.16,0,1
+Katherine Henson,58,Male,2025-03-16,2025-05-25,503.18,5,0
+Brenda Murray,56,Female,2024-07-29,2025-07-22,32.0,1,0
+Aimee Williams,26,Other,2025-01-17,2025-02-23,928.2,1,1
+Crystal Goodwin MD,59,Other,2025-02-03,2025-04-24,34.46,0,0
+Michael Shaw,46,Female,2024-12-19,2025-03-19,857.51,1,0
+Randall Esparza,24,Male,2025-02-09,2025-06-10,633.52,0,1
+Maria Graves,29,Male,2024-08-04,2025-06-26,37.56,2,1
+Ryan Taylor,37,Female,2024-01-07,2024-12-20,368.59,5,0
+Shawn Little,29,Other,2024-03-10,2025-07-06,179.98,2,0
+Benjamin Hansen,48,Female,2024-11-30,2025-02-13,28.09,2,1
+Veronica Lucas,38,Female,2025-04-04,2025-07-12,631.88,0,0
+Deanna Jones,54,Female,2025-06-24,2025-07-07,649.42,3,0
+Steven Gibson,32,Male,2024-04-27,2024-10-16,592.97,4,0
+Timothy Molina,41,Other,2023-09-05,2025-05-09,652.34,5,1
+Andrew Simmons,46,Other,2024-03-19,2024-05-03,50.96,0,1
+Melissa Bailey,19,Female,2024-10-01,2025-04-11,721.32,3,0
+Tony Fritz,29,Other,2023-11-26,2024-02-17,879.45,4,1
+Crystal Alexander,49,Other,2024-01-27,2024-09-29,316.37,3,0
+Leah Ross,61,Male,2023-08-14,2024-02-19,251.96,5,1
+Michelle Morales,37,Other,2025-03-25,2025-07-04,869.4,1,0
+Rachael Page,40,Other,2024-03-05,2025-03-19,341.82,5,1
+Susan Mcintyre,42,Female,2023-12-25,2024-11-01,290.93,4,0
+John Brown,55,Female,2024-01-28,2024-07-24,662.15,1,0
+Kenneth Wright,41,Other,2024-09-25,2025-02-23,629.72,0,0
+Tracy Wiley,55,Other,2024-11-09,2025-05-25,517.69,1,0
+Teresa Johnson,56,Female,2024-10-07,2024-10-10,482.83,2,1
+Justin Sanchez,51,Other,2025-02-25,2025-03-13,571.14,5,0
+Michael Kelley,42,Male,2023-09-25,2025-03-15,859.94,3,1
+Erica Saunders,51,Female,2023-09-28,2024-04-24,923.53,0,1
+Michael Townsend,37,Male,2024-04-18,2024-10-31,208.34,1,0
+Katherine Love,41,Other,2025-01-17,2025-03-20,636.88,5,1
+James Anderson,29,Female,2024-09-17,2024-11-14,265.13,5,1
+Megan Taylor,30,Female,2023-11-19,2024-04-09,823.47,0,0
+Kimberly Luna,59,Other,2023-10-25,2024-07-24,471.62,4,1
+Gabriela Gibson,56,Other,2023-11-26,2024-01-01,36.64,4,1
+Mary Garcia DDS,40,Male,2024-10-11,2025-05-22,479.17,0,0
+Allison Brown,68,Female,2023-09-27,2024-08-27,535.55,4,0
+Zachary Vasquez,52,Other,2025-05-13,2025-07-18,449.34,5,1
+Mitchell Rodriguez PhD,65,Female,2023-09-08,2025-02-17,370.44,2,0
+Miguel Martinez,64,Female,2024-07-03,2025-06-30,501.38,2,1
+Joanna Dorsey,19,Other,2023-10-07,2025-05-06,114.95,4,0
+Joanne Robertson,64,Other,2025-04-08,2025-05-09,237.25,0,0
+Larry Hernandez,22,Other,2023-08-07,2024-05-04,22.13,0,0
+Lauren Braun,37,Female,2024-03-28,2025-03-23,479.61,3,0
+Angela Davis,47,Other,2024-03-10,2024-08-19,660.15,5,1
+Valerie Hoffman,40,Male,2023-12-22,2023-12-24,674.66,2,0
+Russell James,28,Male,2025-02-22,2025-04-06,681.15,1,1
+Sophia Hernandez,26,Male,2024-11-28,2024-12-01,57.41,4,1
+Jacqueline Campos,45,Female,2023-11-17,2025-06-08,262.85,4,0
+Heather Murray,46,Other,2024-06-01,2025-05-30,675.99,1,1
+Kim Gillespie,51,Female,2025-04-15,2025-05-06,67.25,5,1
+Robert Jones,70,Female,2023-07-27,2024-12-07,642.53,2,1
+Shane Jones,47,Male,2025-04-16,2025-07-20,281.81,5,1
+Erin Hamilton,64,Male,2025-04-26,2025-07-21,992.05,1,0
+Dr. Anthony Williams DVM,62,Male,2024-07-25,2024-07-31,918.06,1,1
+Kathy Brown,50,Male,2023-09-28,2024-03-30,877.75,3,0
+Donna Pace,63,Male,2025-03-24,2025-05-13,990.65,0,1
+Christian Miller,48,Other,2024-03-18,2025-06-17,670.44,5,1
+Jamie Williams,34,Female,2025-02-03,2025-03-25,385.01,5,1
+Omar Roach,31,Female,2023-08-15,2024-01-10,554.65,5,1
+Daniel Jackson,49,Female,2025-04-20,2025-07-04,162.71,0,0
+Jamie Stephens,60,Other,2025-02-09,2025-04-22,670.3,0,0
+Sarah Jenkins,52,Other,2024-06-07,2024-11-19,524.48,3,1
+Katrina Warren,19,Female,2024-03-01,2024-05-30,921.32,2,1
+Roger Lawrence DDS,50,Female,2023-11-10,2024-06-15,212.0,1,1
+Sara Peterson,49,Female,2025-05-07,2025-07-02,337.74,4,1
+Jennifer Lopez,39,Female,2025-02-01,2025-05-14,921.02,5,0
+Dr. Ralph Rush,46,Other,2023-11-23,2024-04-09,722.23,5,0
+Keith Lara,19,Female,2025-07-06,2025-07-09,418.47,3,1
+Mr. Justin Williams,29,Other,2025-01-15,2025-06-18,271.67,4,1
+Stephanie Payne,68,Male,2024-03-15,2025-06-11,492.58,1,1
+Heidi Brown,60,Other,2024-02-29,2024-11-26,219.88,2,0
+Gloria Hamilton,61,Other,2024-07-03,2025-06-13,776.87,5,0
